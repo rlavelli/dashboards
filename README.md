@@ -1,6 +1,6 @@
 # dashboards
 
-This repo host a collection of dashboards made as exercises.
+This repo hosts a collection of dashboards made as exercises.
 
 # Data Links (mostly from Kaggle):
 
